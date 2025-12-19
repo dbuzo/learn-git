@@ -1,0 +1,13 @@
+# SSH keys
+*.pem
+*.key
+id_rsa*
+*.pub
+
+# Hugo
+public/
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
